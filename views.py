@@ -1,5 +1,5 @@
 from django.http import HttpResponse
-from djang.cutshort import redicert
+from djang.shortcuts import redicert
 
 
 def index(request):
